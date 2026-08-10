@@ -8,21 +8,6 @@ Repositori ini berisi kode sumber dan dokumentasi untuk **Tugas Akhir Mata Kulia
 
 ---
 
-## 👥 Tim Penyusun (Kelompok 6)
-
-| Nama | NIM | Peran |
-| :--- | :--- | :--- |
-| **Haikal Rasyiq At-thahir** | 09011282429037 | Data Gathering & Preprocessing |
-| **Julia Khairunisyah** | 09011182429001 | Documentation & Reporting |
-| **Muhammad Faizal Mirzah** | 09011382429122 | Model Implementation (TF-IDF) |
-| **Naswazein Vitto Febrillian** | 09011182429027 | Model Implementation (BM25) |
-| **Saniya Dwi Aprillia** | 09011182429003 | Evaluation & Analysis |
-
-**Dosen Pengampu:** Assoc. Prof. Dr. Rossi Passarella, S.T., M.Eng.  
-**Universitas Sriwijaya - Fakultas Ilmu Komputer**
-
----
-
 ## 📖 Tentang Proyek
 
 Sistem ini dirancang untuk mengatasi masalah *information overload* pada artikel berita daring. Kami menggunakan dataset berisi **1.000 dokumen berita Indonesia** dan melakukan serangkaian proses mulai dari *text preprocessing* hingga evaluasi sistem.
